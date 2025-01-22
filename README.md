@@ -17,6 +17,7 @@ Giganti, A.; Mandelli, S.; Bestagini, P.; Tubaro, S. [*"Learn from Simulations, 
 - [License](#license)
 - [Acknowledgement](#acknowledgement)
 - [Misc](#misc)
+- [Poster](#poster)
 
 ## Overview
 ### Abstract
@@ -153,3 +154,7 @@ Research [MUR](https://www.mur.gov.it/it) and the European Union (EU) under the 
 A podcast version of the article is available at [https://youtu.be/lNCfx9XUou0?si=GsBUOI6vQr3PuF51](https://youtu.be/lNCfx9XUou0?si=GsBUOI6vQr3PuF51)
 ### :bookmark_tabs: Our BVOC Related Works
 A collection of the works from our team focused on BVOC emissions are available at [https://github.com/polimi-ispl/sr-bvoc](https://github.com/polimi-ispl/sr-bvoc)
+
+## Poster
+### :page_with_curl: GTTI Valfurva 2025 Meeting
+<p align="center" width="100%"><img width="100%" src="poster.png"></p>
